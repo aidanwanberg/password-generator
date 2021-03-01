@@ -1,7 +1,6 @@
 // Assignment code here
 
-
-
+// These are the variables for the password criteria
 var uppercaseLetters = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
 
 var lowercaseLetters = "abcdefghijklmnopqrstuvwxyz"
